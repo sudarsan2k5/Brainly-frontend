@@ -12,7 +12,7 @@ export function Sidebar(){
                 </div>
                 Brainly
             </div>
-            <div className="mt-8 pl-4">
+            <div className="mt-8 pl-8">
                 <SidebarItems text="Twitter" icon={<TwitterIcon/>}/>
                 <SidebarItems text="Youtube" icon={<YoutubeIcon/>}/>
             </div>
